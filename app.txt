@@ -1,1 +1,57 @@
+
+
 # Application logic goes here
+# Application logic goes here
+
+Function: deleteStudent()
+Description: Deletes a student from the system.
+
+
+
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+app.txt[+] [dos] (23:55 04/08/2025)                                                                                                                                  2,1 All
+-- INSERT --
+
